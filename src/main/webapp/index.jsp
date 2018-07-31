@@ -3,7 +3,7 @@
   <h2>Successfully Deployed War file....</h2>
   <%
     double num = Math.random();
-    if (num > 0.85) {
+    if (num > 0.80) {
   %>
       <h2>You'll have a luck day!</h2><p>(<%= num %>)</p>
   <%
