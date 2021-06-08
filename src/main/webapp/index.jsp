@@ -1,6 +1,6 @@
 <html>
 <body>
-  <h2> updated Successfully Deployed War file1234....</h2>
+  <h2> updated again Successfully Deployed War file1234....</h2>
   <%
     double num = Math.random();
     if (num > 0.60) {
